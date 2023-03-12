@@ -1,4 +1,5 @@
 ## git clone
+## cd laravel-demo-role
 ## docker-compose up -d
 ## docker ps 
 ## docker exec -it {containerID} /bin/sh
